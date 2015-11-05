@@ -21,6 +21,7 @@
 
 #include "span.h"           // span, strided_span...
 #include "string_span.h"    // zstring, string_span, zstring_builder...
+#include "unique_error.h"
 #include <memory>
 
 #ifdef _MSC_VER
